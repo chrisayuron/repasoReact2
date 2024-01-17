@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/repasoReact2/static/css/main.5e38bbdb.css",
+    "main.js": "/repasoReact2/static/js/main.0ce8c63e.js",
+    "static/js/787.8fdbc69d.chunk.js": "/repasoReact2/static/js/787.8fdbc69d.chunk.js",
+    "static/media/instagram.png": "/repasoReact2/static/media/instagram.4b5db7ba39c7e588fc6b.png",
+    "static/media/facebook.png": "/repasoReact2/static/media/facebook.1e4a2c4f74d367753c6f.png",
+    "index.html": "/repasoReact2/index.html",
+    "main.5e38bbdb.css.map": "/repasoReact2/static/css/main.5e38bbdb.css.map",
+    "main.0ce8c63e.js.map": "/repasoReact2/static/js/main.0ce8c63e.js.map",
+    "787.8fdbc69d.chunk.js.map": "/repasoReact2/static/js/787.8fdbc69d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e38bbdb.css",
+    "static/js/main.0ce8c63e.js"
+  ]
+}
